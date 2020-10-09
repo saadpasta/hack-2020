@@ -9,4 +9,4 @@ Working on : ReactJs , Python
 --------------------------------
 
 Name : Najam Shehzad </br>
-Working on : ReactJs , Nodejs, GraphQL, Kubernetes, Docker
+Working on : ReactJs , Nodejs, GraphQL, Kubernetes, Docker, AWS
